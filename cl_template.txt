@@ -1,0 +1,31 @@
+
+Ashish Kumar
+Pune (India)
+(+91) 8861302568
+ashishkr.568@gmail.com
+Skype: ashish.568
+
+To
+{company}
+{location}
+{date}
+
+Subject: Application for the Position of {role}
+
+Dear Hiring Manager,
+
+I am writing to apply for the position of {role} at {company}.My excellent analytical and problem-solving skills along with my expertise in providing end to end data driven solution makes me perfect for this position.
+
+I have a Bachelor of Technology degree from Uttar Pradesh Technical University (Lucknow, India) and 10+ years of experience in performing Extract Transform and Load (ETL) activities, interpreting / visualizing data, generating insights and applying various machine learning algorithms to predict KPI's. 
+
+As per the requirements for the position at {company}, you will notice in my resume that I have working experience in providing machine learning/data science solutions, ChatBot development, creation of multiple applications in Python along with experience in cloud platforms such as Microsoft Azure and Amazon Web Services (AWS).
+
+I am thrilled to be applying to {company} because as a data scientist, my unwavering curiosity, honed creativity, and proficiency in Data Science will be of the greatest benefit to {company}.
+
+Please find my resume attached. Feel free to contact me via email or phone call if I can be of any further service.
+
+Thank you for taking the time to consider my application. I look forward to hearing from you.
+
+Yours sincerely,
+Ashish Kumar
+
